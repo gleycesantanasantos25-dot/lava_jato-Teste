@@ -1,0 +1,14 @@
+frontend/
+├── src/
+│   ├── components/
+│   │   ├── Login.jsx
+│   │   ├── PartnerDashboard.jsx
+│   │   ├── BookingsList.jsx
+│   │   ├── BookingCard.jsx
+│   │   ├── FinancialSummary.jsx
+│   │   └── PrivateRoute.jsx
+│   ├── services/
+│   │   └── api.js
+│   ├── contexts/
+│   │   └── AuthContext.jsx
+│   └── App.jsx

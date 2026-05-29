@@ -1,0 +1,13 @@
+backend/
+├── src/
+│   ├── config/
+│   │   └── database.js
+│   ├── middleware/
+│   │   ├── auth.js
+│   │   └── roleCheck.js
+│   ├── controllers/
+│   │   └── authController.js
+│   ├── routes/
+│   │   └── authRoutes.js
+│   └── app.js
+└── .env

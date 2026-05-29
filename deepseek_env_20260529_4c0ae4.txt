@@ -1,0 +1,1 @@
+ASAAS_API_KEY=seu_token_aqui

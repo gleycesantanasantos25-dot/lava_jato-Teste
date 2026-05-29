@@ -1,0 +1,11 @@
+backend/
+├── src/
+│   ├── controllers/
+│   │   └── adminController.js
+│   └── routes/
+│       └── adminRoutes.js
+
+frontend/
+├── src/
+│   └── components/
+│       └── AdminDashboard.jsx
